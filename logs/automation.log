@@ -1,0 +1,96 @@
+2024-09-21 21:26:22 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\Lenovo\workspace\OpenCart\master.xml] otherwise TestNG may fail or not work as expected.
+2024-09-21 21:26:29 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.137 (resolved driver for Chrome 128)
+2024-09-21 21:26:29 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\128.0.6613.137\chromedriver.exe
+2024-09-21 21:26:30 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-09-21 21:26:30 INFO  TC_001_AccountRegistrationTest:20 - Click on MyAccount
+2024-09-21 21:26:30 INFO  TC_001_AccountRegistrationTest:22 - Click on Register
+2024-09-21 21:26:30 INFO  TC_001_AccountRegistrationTest:27 - Fill registration details
+2024-09-21 21:26:32 INFO  TC_001_AccountRegistrationTest:38 - Verify the confirmation message
+2024-09-21 21:26:32 INFO  TC_001_AccountRegistrationTest:45 - Test passed
+2024-09-21 21:26:32 INFO  TC_001_AccountRegistrationTest:52 - Finished TC001_AccountRegistrationTest
+2024-09-21 21:26:36 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.137 (resolved driver for Chrome 128)
+2024-09-21 21:26:36 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\128.0.6613.137\chromedriver.exe
+2024-09-21 21:26:37 INFO  TC_002_LoginTest:16 - Starting TC_02_Login Test
+2024-09-21 21:26:39 INFO  TC_002_LoginTest:33 - TC_02 Finished
+2024-09-21 21:26:39 INFO  TC_002_LoginTest:37 - TC_02 Finished
+2024-09-21 21:26:43 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.137 (resolved driver for Chrome 128)
+2024-09-21 21:26:43 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\128.0.6613.137\chromedriver.exe
+2024-09-21 21:26:46 INFO  TC_003_LoginDDT:17 - **** Starting TC_003_LoginDDT *****
+2024-09-21 21:26:51 INFO  TC_003_LoginDDT:67 - **** Finished TC_003_LoginDDT *****
+2024-09-21 21:26:51 INFO  TC_003_LoginDDT:17 - **** Starting TC_003_LoginDDT *****
+2024-09-21 21:26:53 INFO  TC_003_LoginDDT:17 - **** Starting TC_003_LoginDDT *****
+2024-09-21 21:26:56 INFO  TC_003_LoginDDT:17 - **** Starting TC_003_LoginDDT *****
+2024-09-21 21:27:08 INFO  TC_003_LoginDDT:17 - **** Starting TC_003_LoginDDT *****
+2024-09-21 21:27:12 INFO  TC_003_LoginDDT:67 - **** Finished TC_003_LoginDDT *****
+2024-09-21 21:34:03 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\Lenovo\workspace\OpenCart\master.xml] otherwise TestNG may fail or not work as expected.
+2024-09-21 21:34:08 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.137 (resolved driver for Chrome 128)
+2024-09-21 21:34:08 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\128.0.6613.137\chromedriver.exe
+2024-09-21 21:34:10 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-09-21 21:34:10 INFO  TC_001_AccountRegistrationTest:20 - Click on MyAccount
+2024-09-21 21:34:10 INFO  TC_001_AccountRegistrationTest:22 - Click on Register
+2024-09-21 21:34:10 INFO  TC_001_AccountRegistrationTest:27 - Fill registration details
+2024-09-21 21:34:12 INFO  TC_001_AccountRegistrationTest:38 - Verify the confirmation message
+2024-09-21 21:34:12 INFO  TC_001_AccountRegistrationTest:45 - Test passed
+2024-09-21 21:34:12 INFO  TC_001_AccountRegistrationTest:52 - Finished TC001_AccountRegistrationTest
+2024-09-21 21:34:16 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.137 (resolved driver for Chrome 128)
+2024-09-21 21:34:16 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\128.0.6613.137\chromedriver.exe
+2024-09-21 21:34:17 INFO  TC_002_LoginTest:16 - Starting TC_02_Login Test
+2024-09-21 21:34:19 INFO  TC_002_LoginTest:33 - TC_02 Finished
+2024-09-21 21:34:19 INFO  TC_002_LoginTest:37 - TC_02 Finished
+2024-09-21 21:34:23 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.137 (resolved driver for Chrome 128)
+2024-09-21 21:34:23 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\128.0.6613.137\chromedriver.exe
+2024-09-21 21:34:26 INFO  TC_003_LoginDDT:17 - **** Starting TC_003_LoginDDT *****
+2024-09-21 21:34:34 INFO  TC_003_LoginDDT:67 - **** Finished TC_003_LoginDDT *****
+2024-09-21 21:34:34 INFO  TC_003_LoginDDT:17 - **** Starting TC_003_LoginDDT *****
+2024-09-21 21:34:36 INFO  TC_003_LoginDDT:17 - **** Starting TC_003_LoginDDT *****
+2024-09-21 21:34:38 INFO  TC_003_LoginDDT:17 - **** Starting TC_003_LoginDDT *****
+2024-09-21 21:34:49 INFO  TC_003_LoginDDT:17 - **** Starting TC_003_LoginDDT *****
+2024-09-21 21:34:54 INFO  TC_003_LoginDDT:67 - **** Finished TC_003_LoginDDT *****
+2024-09-21 23:33:54 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\Lenovo\workspace\OpenCart\master.xml] otherwise TestNG may fail or not work as expected.
+2024-09-21 23:33:59 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.137 (resolved driver for Chrome 128)
+2024-09-21 23:33:59 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\128.0.6613.137\chromedriver.exe
+2024-09-21 23:34:01 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-09-21 23:34:01 INFO  TC_001_AccountRegistrationTest:20 - Click on MyAccount
+2024-09-21 23:34:01 INFO  TC_001_AccountRegistrationTest:22 - Click on Register
+2024-09-21 23:34:01 INFO  TC_001_AccountRegistrationTest:27 - Fill registration details
+2024-09-21 23:34:03 INFO  TC_001_AccountRegistrationTest:38 - Verify the confirmation message
+2024-09-21 23:34:03 INFO  TC_001_AccountRegistrationTest:45 - Test passed
+2024-09-21 23:34:03 INFO  TC_001_AccountRegistrationTest:52 - Finished TC001_AccountRegistrationTest
+2024-09-21 23:34:07 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.137 (resolved driver for Chrome 128)
+2024-09-21 23:34:07 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\128.0.6613.137\chromedriver.exe
+2024-09-21 23:34:08 INFO  TC_002_LoginTest:16 - Starting TC_02_Login Test
+2024-09-21 23:34:09 INFO  TC_002_LoginTest:33 - TC_02 Finished
+2024-09-21 23:34:09 INFO  TC_002_LoginTest:37 - TC_02 Finished
+2024-09-21 23:34:14 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.137 (resolved driver for Chrome 128)
+2024-09-21 23:34:14 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\128.0.6613.137\chromedriver.exe
+2024-09-21 23:34:17 INFO  TC_003_LoginDDT:17 - **** Starting TC_003_LoginDDT *****
+2024-09-21 23:34:22 INFO  TC_003_LoginDDT:67 - **** Finished TC_003_LoginDDT *****
+2024-09-21 23:34:22 INFO  TC_003_LoginDDT:17 - **** Starting TC_003_LoginDDT *****
+2024-09-21 23:34:23 INFO  TC_003_LoginDDT:17 - **** Starting TC_003_LoginDDT *****
+2024-09-21 23:34:25 INFO  TC_003_LoginDDT:17 - **** Starting TC_003_LoginDDT *****
+2024-09-21 23:34:36 INFO  TC_003_LoginDDT:17 - **** Starting TC_003_LoginDDT *****
+2024-09-21 23:34:40 INFO  TC_003_LoginDDT:67 - **** Finished TC_003_LoginDDT *****
+2024-09-21 23:54:40 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\Lenovo\workspace\OpenCart\master.xml] otherwise TestNG may fail or not work as expected.
+2024-09-21 23:54:45 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.137 (resolved driver for Chrome 128)
+2024-09-21 23:54:45 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\128.0.6613.137\chromedriver.exe
+2024-09-21 23:54:46 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-09-21 23:54:47 INFO  TC_001_AccountRegistrationTest:20 - Click on MyAccount
+2024-09-21 23:54:47 INFO  TC_001_AccountRegistrationTest:22 - Click on Register
+2024-09-21 23:54:47 INFO  TC_001_AccountRegistrationTest:27 - Fill registration details
+2024-09-21 23:54:48 INFO  TC_001_AccountRegistrationTest:38 - Verify the confirmation message
+2024-09-21 23:54:48 INFO  TC_001_AccountRegistrationTest:45 - Test passed
+2024-09-21 23:54:48 INFO  TC_001_AccountRegistrationTest:52 - Finished TC001_AccountRegistrationTest
+2024-09-21 23:54:53 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.137 (resolved driver for Chrome 128)
+2024-09-21 23:54:53 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\128.0.6613.137\chromedriver.exe
+2024-09-21 23:54:53 INFO  TC_002_LoginTest:16 - Starting TC_02_Login Test
+2024-09-21 23:54:55 INFO  TC_002_LoginTest:33 - TC_02 Finished
+2024-09-21 23:54:55 INFO  TC_002_LoginTest:37 - TC_02 Finished
+2024-09-21 23:54:59 INFO  WebDriverManager:1220 - Using chromedriver 128.0.6613.137 (resolved driver for Chrome 128)
+2024-09-21 23:54:59 INFO  WebDriverManager:1282 - Exporting webdriver.chrome.driver as C:\Users\Lenovo\.cache\selenium\chromedriver\win64\128.0.6613.137\chromedriver.exe
+2024-09-21 23:55:01 INFO  TC_003_LoginDDT:17 - **** Starting TC_003_LoginDDT *****
+2024-09-21 23:55:08 INFO  TC_003_LoginDDT:67 - **** Finished TC_003_LoginDDT *****
+2024-09-21 23:55:08 INFO  TC_003_LoginDDT:17 - **** Starting TC_003_LoginDDT *****
+2024-09-21 23:55:09 INFO  TC_003_LoginDDT:17 - **** Starting TC_003_LoginDDT *****
+2024-09-21 23:55:11 INFO  TC_003_LoginDDT:17 - **** Starting TC_003_LoginDDT *****
+2024-09-21 23:55:22 INFO  TC_003_LoginDDT:17 - **** Starting TC_003_LoginDDT *****
+2024-09-21 23:55:27 INFO  TC_003_LoginDDT:67 - **** Finished TC_003_LoginDDT *****
